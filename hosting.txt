@@ -1,0 +1,4 @@
+Hosting is phenomenal in javascript by which you can access this variable and function even before 
+variable initialization and you can put value , without any error. 
+
+Even before code start exeuting memory allocted all variable and function
